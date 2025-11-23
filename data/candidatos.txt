@@ -1,0 +1,11 @@
+# Tipo_Eleccion | Nombre | Partido | Circunscripcion | Distrito | Votos
+Presidente | Catalina Lagos | PPDN | Nacional | Nacional | 0
+Presidente | Gabriel Soto | LCF | Nacional | Nacional | 0
+Senador | Andrés Palma | PPDN | 1 | N/A | 0
+Senador | Berta Muñoz | LCF | 1 | N/A | 0
+Senador | Ricardo Silva | PPDN | 2 | N/A | 0
+Senador | Laura Díaz | LCF | 2 | N/A | 0
+Diputado | Carlos Ruiz | PPDN | N/A | 15 | 0
+Diputado | Daniela Vega | LCF | N/A | 15 | 0
+Diputado | Marco Polo | PPDN | N/A | 10 | 0
+Diputado | Luisa Tello | LCF | N/A | 10 | 0

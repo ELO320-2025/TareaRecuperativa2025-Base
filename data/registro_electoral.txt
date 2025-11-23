@@ -1,0 +1,6 @@
+# Nombre | RUT | Local_Votacion | Num_Mesa | Circunscripcion | Distrito | Es_Vocal | Voto | Afiliacion | Justificacion
+Alonso Díaz | 18.000.000-1 | Escuela Central | 1 | 1 | 15 | No | No | Independiente | No
+Elena Flores | 19.000.000-K | Escuela Central | 1 | 1 | 15 | No | No | PPDN | No
+Javier Rojas | 20.123.456-7 | Escuela Central | 2 | 1 | 15 | Sí | No | LCF | No
+Sofía Vidal | 21.987.654-3 | Escuela Central | 5 | 1 | 15 | No | No | Independiente | No
+Pedro Gómez | 15.555.555-5 | Liceo Norte | 10 | 2 | 10 | Sí | No | PPDN | No

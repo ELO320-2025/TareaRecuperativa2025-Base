@@ -1,0 +1,12 @@
+# TIPO | ID_Circun | ID_Dist | Local | Mesa | Escanos_Sen|Escanos_Dip | Total_Mesas_Local
+CIRCUNSCRIPCION | 1 | N/A | N/A | N/A | 3 | N/A | N/A
+CIRCUNSCRIPCION | 2 | N./A | N/A | N/A | 5 | N/A | N/A
+DISTRITO | 1 | 15 | N/A | N/A | N/A | 3 | N/A
+DISTRITO | 1 | 10 | N/A | N/A | N/A | 4 | N/A
+LOCAL | 1 | 15 | Escuela Central | N/A | N/A | N/A | 5
+LOCAL | 1 | 15 | Gimnasio Municipal | N/A | N/A | N/A | 7
+MESA | 1 | 15 | Escuela Central | 1 | N/A | N/A | 5
+MESA | 1 | 15 | Escuela Central | 2 | N/A | N/A | 5
+MESA | 1 | 15 | Escuela Central | 3 | N/A | N/A | 5
+MESA | 1 | 15 | Escuela Central | 4 | N/A | N/A | 5
+MESA | 1 | 15 | Escuela Central | 5 | N/A | N/A | 5
